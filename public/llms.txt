@@ -1,0 +1,25 @@
+# EASTWAY Logistics
+
+> EASTWAY is a global freight forwarder providing tailor-made logistics solutions for
+> customers in 50+ industries: ocean (FCL/LCL), air, rail, road, project cargo,
+> warehousing and customs brokerage.
+
+## Core pages
+
+- [Home](https://eastway-logistics.vercel.app/): Company overview, services, global reach, insights, FAQ and quote request form.
+- [Locations](https://eastway-logistics.vercel.app/location): Gateway offices, air cargo stations and the bonded warehouse network.
+
+## Services
+
+- Marine cargo: FCL/LCL ocean freight, port-to-door handling, customs coordination.
+- Air cargo: time-critical airfreight, charter capacity, temperature-controlled cargo.
+- Inland cargo: domestic road haulage and cross-border trucking with live tracking.
+- Heavy equipment: oversize and project cargo with route surveys and lifting plans.
+- Car shipping: RoRo, container and enclosed vehicle transport.
+- Container sea cargo: leasing, stuffing, consolidation and demurrage visibility.
+
+## Contact
+
+- Email: hello@eastway.com
+- Phone: +90 212 000 00 00
+- Headquarters: Ataturk Cad. Istanbul St., Turkey

@@ -1,0 +1,18 @@
+node_modules/
+.next/
+out/
+.preview/
+.vercel/
+*.tsbuildinfo
+next-env.d.ts
+
+# local artifacts
+.playwright-mcp/
+.npm-cache/
+*.bak
+*.orig
+.DS_Store
+.env*.local
+
+# local git handoff bundle
+*.bundle
