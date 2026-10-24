@@ -67,9 +67,13 @@ vercel          # first run links the project and creates a preview deployment
 vercel --prod   # promote to production
 ```
 
-The project pins Node `22.x` via `package.json` engines. `package-lock.json` includes the
+The project pins Node `24.x` via `package.json` engines. `package-lock.json` includes the
 Linux optional binaries (`@next/swc-*`, `lightningcss-*`, `sharp`) so `npm ci` resolves
 deterministically on Vercel.
+
+`allowScripts` denies `sharp`'s install script. Sharp is not used by this project
+(`images.unoptimized` is enabled for static export), and the script can fall back to
+compiling from source, which is slower and can fail on a build machine.
 
 ### Custom domain
 
